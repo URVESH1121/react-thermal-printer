@@ -1,0 +1,18 @@
+# Source
+src
+tests
+examples
+
+# Config files
+.github
+.gitignore
+.eslintrc
+.prettierrc
+tsconfig.json
+tsup.config.ts
+vitest.config.ts
+
+# Development
+coverage
+node_modules
+*.log
